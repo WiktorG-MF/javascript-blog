@@ -100,13 +100,15 @@ body {
 }
 
 /* Post */
-
 .post {
   display: none;
-  &.active {
+}
+
+
+.active {
     display: block;
   }
-}
+
 
 .post-author {
   font-style: italic;
