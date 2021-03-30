@@ -88,7 +88,7 @@ body {
   display: none;
 }
 
-.active {
+.post.active {
   display: block;
 }
 
